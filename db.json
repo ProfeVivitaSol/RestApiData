@@ -1,0 +1,11 @@
+{
+    "usuarios":[
+        {
+            "id":"a001",
+            "username":"usuario1",
+            "email":"usuario1@mail.cl",
+            "password":"duoc1234",
+            "isactive":true
+        }
+    ]
+}
